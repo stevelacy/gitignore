@@ -17,7 +17,7 @@ results
 *.gz
 
 
-src/pkg
+pkg
 src/github.com
 
 ```
